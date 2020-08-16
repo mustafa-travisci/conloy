@@ -1,0 +1,29 @@
+{
+  "name": "conloy",
+  "version": "1.1.9",
+  "description": "A lightweight solution to the tedious process of writing if return statements.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElitKrit/conloy"
+  },
+  "keywords": [
+    "convert",
+    "if",
+    "return",
+    "conversion"
+  ],
+  "author": "Krit Dass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElitKrit/conloy/issues"
+  },
+  "homepage": "https://github.com/ElitKrit/conloy#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
