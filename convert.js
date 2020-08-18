@@ -79,4 +79,7 @@ function convert (
   }
 }
 
-module.exports.convert = convert
+const _conloy = convert
+export {
+  _conloy as convert
+}
